@@ -60,11 +60,11 @@ See `/docs` for the full SRS, ERD, use case diagram, and traceability matrix.
 
 | Name | Student ID | Role |
 | :--- | :--- | :--- |
-| Gankawi Hankham | 6931503023 | FR-1 Profile & Presets Lead |
-| Jirapat Intharat | 6931503027 | FR-2 Computing System Lead |
-| Sukrit Suteekul | 6931503078 | FR-4 & FR-5 Result Breakdown & History Lead |
-| Akhane Wongchai | 6931503081 | FR-3 User Guide & Documentation Lead |
-| Theethawat Thaweechai | 6931503108 | Interviewer Assistant & Co-developer |
+| Gankawi Hankham | 6931503023 | UX/UI Lead & Lead User Researcher (FR-1 Profile & Presets) |
+| Jirapat Intharat | 6931503027 | Developer & Systems Engineer (FR-2 Computing System) |
+| Sukrit Suteekul | 6931503078 | Interviewer Assistant & Co-developer (FR-5 Usage History & Data Persistence) |
+| Akhane Wongchai | 6931503081 | Product Owner & Scrum Master |
+| Theethawat Thaweechai | 6931503108 | Interviewer & Communications (FR-3 User Guide & FR-4 Result Declare)|
 
 ## AI usage
 
