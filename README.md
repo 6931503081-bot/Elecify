@@ -60,10 +60,11 @@ See `/docs` for the full SRS, ERD, use case diagram, and traceability matrix.
 
 | Name | Student ID | Role |
 | :--- | :--- | :--- |
-| Patrpor Wutisutr | 693150xxxx | FR-1 Profile & Presets Lead |
-| Waratit Pongwiwat | 693150xxxx | FR-2 Computing System Lead |
-| Saroj Kruengsai | 693150xxxx | FR-4 & FR-5 Result Breakdown & History Lead |
-| Strategic Team Member | 693150xxxx | FR-3 User Guide & Documentation Lead |
+| Gankawi Hankham | 6931503023 | FR-1 Profile & Presets Lead |
+| Jirapat Intharat | 6931503027 | FR-2 Computing System Lead |
+| Sukrit Suteekul | 6931503078 | FR-4 & FR-5 Result Breakdown & History Lead |
+| Akhane Wongchai | 6931503081 | FR-3 User Guide & Documentation Lead |
+| Theethawat Thaweechai | 6931503108 | Interviewer Assistant & Co-developer |
 
 ## AI usage
 
