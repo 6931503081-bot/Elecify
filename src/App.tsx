@@ -96,11 +96,11 @@ export default function App() {
     return () => mediaQuery.removeEventListener('change', handler);
   }, [themeMode]);
 
-  // Language State ('th' | 'en' | 'zh')
+  // Language State ('th' | 'en')
   const [lang, setLang] = useState<Language>(() => {
     try {
       const saved = localStorage.getItem('powerProfiles.language.v1');
-      if (saved === 'th' || saved === 'en' || saved === 'zh') return saved;
+      if (saved === 'th' || saved === 'en') return saved;
       return 'th';
     } catch {
       return 'th';

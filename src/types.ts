@@ -1,6 +1,6 @@
 export type ThemeMode = 'light' | 'dark' | 'system';
 
-export type Language = 'th' | 'en' | 'zh';
+export type Language = 'th' | 'en';
 
 export interface Appliance {
   id: string;

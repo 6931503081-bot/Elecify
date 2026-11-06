@@ -70,7 +70,6 @@ export const Navbar: React.FC<NavbarProps> = ({
           >
             <option value="th">🇹🇭 ไทย</option>
             <option value="en">🇬🇧 EN</option>
-            <option value="zh">🇨🇳 中文</option>
           </select>
 
           {/* Theme Mode Toggle Button */}

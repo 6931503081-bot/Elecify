@@ -110,10 +110,10 @@ export const AuthModal: React.FC<AuthModalProps> = ({
               />
             </svg>
             <h3 className="text-xl font-extrabold tracking-tight text-drop-subtle">
-              {lang === 'th' ? 'ลงชื่อเข้าใช้ด้วย Google' : lang === 'zh' ? '使用 Google 账号登录' : 'Sign in with Google'}
+              {lang === 'th' ? 'ลงชื่อเข้าใช้ด้วย Google' : 'Sign in with Google'}
             </h3>
             <p className="text-xs sm:text-sm text-stone-500 dark:text-stone-400 mt-1 font-medium">
-              {lang === 'th' ? 'เลือกบัญชีเพื่อดำเนินการต่อยังระบบคำนวณพลังงาน' : lang === 'zh' ? '选择账号以继续访问' : 'Choose an account to continue'}
+              {lang === 'th' ? 'เลือกบัญชีเพื่อดำเนินการต่อยังระบบคำนวณพลังงาน' : 'Choose an account to continue'}
             </p>
           </div>
 
@@ -177,7 +177,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({
               >
                 <UserPlus className="w-4 h-4" />
                 <span>
-                  {lang === 'th' ? 'ใช้บัญชี Google อื่น...' : lang === 'zh' ? '使用其他 Google 账号...' : 'Use another Google account...'}
+                  {lang === 'th' ? 'ใช้บัญชี Google อื่น...' : 'Use another Google account...'}
                 </span>
               </button>
             </div>
@@ -186,7 +186,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({
             <form onSubmit={handleCustomSubmit} className="space-y-3.5">
               <div>
                 <label className="block text-xs font-bold text-stone-700 dark:text-stone-300 mb-1 text-drop-subtle">
-                  {lang === 'th' ? 'ชื่อที่แสดง' : lang === 'zh' ? '显示名称' : 'Display Name'}
+                  {lang === 'th' ? 'ชื่อที่แสดง' : 'Display Name'}
                 </label>
                 <input
                   type="text"

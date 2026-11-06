@@ -276,7 +276,5 @@ export const TRANSLATIONS = {
     badInputs: 'Please enter a valid name, watts > 0, and hours between 0.1 and 24.',
     emptyChart: 'Add appliances to visualize consumption breakdown.',
     footerCopyright: '© 2026 Power Profiles. Designed for energy efficiency and sustainable living.',
-  },
-  
   }
-;
+};

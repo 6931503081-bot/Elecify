@@ -41,7 +41,7 @@ export const EnergyCalculator: React.FC<EnergyCalculatorProps> = ({
   const totalCost = totalKwh * gridRate;
 
   const formatCurrency = (val: number) => {
-    return new Intl.NumberFormat(lang === 'th' ? 'th-TH' : lang === 'zh' ? 'zh-CN' : 'en-US', {
+    return new Intl.NumberFormat(lang === 'th' ? 'th-TH' : 'en-US', {
       style: 'currency',
       currency: 'THB',
       maximumFractionDigits: 0,
@@ -60,8 +60,6 @@ export const EnergyCalculator: React.FC<EnergyCalculatorProps> = ({
           <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-stone-900 dark:text-stone-100 text-drop-subtle">
             {lang === 'th'
               ? 'ประเมินค่าไฟคร่าวๆ ในบ้านของคุณ'
-              : lang === 'zh'
-              ? '快速试算您的家庭用电'
               : 'Estimate Your Monthly Power Costs in Seconds'}
           </h2>
           <p className="mt-2 text-sm sm:text-base text-stone-600 dark:text-stone-400 max-w-xl mx-auto font-medium">

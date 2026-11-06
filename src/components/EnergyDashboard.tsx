@@ -124,7 +124,7 @@ export const EnergyDashboard: React.FC<EnergyDashboardProps> = ({
   const totalBill = totalKwh * gridRate;
 
   const formatCurrency = (amount: number) => {
-    return new Intl.NumberFormat(lang === 'th' ? 'th-TH' : lang === 'zh' ? 'zh-CN' : 'en-US', {
+    return new Intl.NumberFormat(lang === 'th' ? 'th-TH' : 'en-US', {
       style: 'currency',
       currency: 'THB',
       maximumFractionDigits: 2,
