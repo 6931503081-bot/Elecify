@@ -63,9 +63,9 @@ See `/docs` for the full SRS, ERD, use case diagram, and traceability matrix.
 | Gankawi Hankham | 6931503023 | UX/UI Lead & Lead User Researcher (FR-1 Profile & Presets) |
 | Jirapat Intharat | 6931503027 | Developer & Systems Engineer (FR-2 Computing System) |
 | Sukrit Suteekul | 6931503078 | Interviewer Assistant & Co-developer (FR-5 Usage History & Data Persistence) |
-| Akhane Wongchai | 6931503081 | Product Owner & Scrum Master |
+| Akhane Wongchai | 6931503081 | Project manager & Scrum Master |
 | Theethawat Thaweechai | 6931503108 | Interviewer & Communications & UX/UI Developer (FR-3 User Guide & FR-4 Result Declare)|
 
 ## AI usage
 
-This project used Gemini to help draft the SRS structure, map M1 charter requirements, and generate functional/non-functional criteria. Every AI-drafted piece was reviewed, verified, and adjusted by the team to fit the specific domain context.
+This project integrated cutting-edge AI technologies to streamline document drafting, requirement mapping, and software architecture. Gemini assisted in establishing the SRS document structure, mapping M1 charter requirements, formulating functional and non-functional criteria, and guiding the UI rebuilding process. In parallel, Claude was leveraged to help organize and refine the codebase for enhanced maintainability. To ensure high standards of accuracy and relevance, every AI-drafted component was rigorously reviewed, verified, and adjusted by the team to fit the specific domain context of the application.
