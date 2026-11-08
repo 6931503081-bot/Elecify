@@ -24,7 +24,7 @@ Dormitory renters often run high-wattage electrical appliances simultaneously wi
 
 ## Tech stack
 
-* **Frontend:** HTML / CSS / JavaScript
+* **Frontend:** TypeScript / CSS / HTML
 * **Backend / Database:** Web Local Storage / Session Management
 * **SDLC Methodology:** Agile / Scrum (Flexible step-by-step development allowing restructuring based on feedback)
 
@@ -36,8 +36,8 @@ Dormitory renters often run high-wattage electrical appliances simultaneously wi
 - [x] Cost calculation engine & data persistence model
 - [x] Traceability matrix (Golden Thread)
 - [x] Non-functional requirements validation (NFR-1 to NFR-5)
-- [ ] UI wireframes & Clickable prototype (M3)
-- [ ] Final report & Demo slides (M3)
+- [x] UI wireframes & Clickable prototype (M3)
+- [x] Final report & Demo slides (M3)
 - [x] AI-use statement
 
 ## Non-functional requirements (NFRs)
@@ -64,7 +64,7 @@ See `/docs` for the full SRS, ERD, use case diagram, and traceability matrix.
 | Jirapat Intharat | 6931503027 | Developer & Systems Engineer (FR-2 Computing System) |
 | Sukrit Suteekul | 6931503078 | Interviewer Assistant & Co-developer (FR-5 Usage History & Data Persistence) |
 | Akhane Wongchai | 6931503081 | Product Owner & Scrum Master |
-| Theethawat Thaweechai | 6931503108 | Interviewer & Communications (FR-3 User Guide & FR-4 Result Declare)|
+| Theethawat Thaweechai | 6931503108 | Interviewer & Communications & UX/UI Developer (FR-3 User Guide & FR-4 Result Declare)|
 
 ## AI usage
 
