@@ -63,7 +63,6 @@ Dormitory renters often run high-wattage electrical appliances simultaneously wi
 | **Lack of Instructions & Misoperation**<br>ผู้ใช้สับสนวิธีการระบุค่าวัตต์หรือเวลาใช้งาน ส่งผลให้คำนวณผิดพลาด | **FR-3:** User Guide & Help Documentation | In-App Help System & Field Tooltip Framework *(Ch 4-5)* | Interactive User Guide & Tooltip System *(Ch 6)* | Usability Trial & Help Navigation Verification Tests *(Ch 7)* |
 | **No Visibility on High-Consumption Devices**<br>ผู้เช่าได้รับแจ้งเฉพาะยอดรวมค่าไฟ ไม่ทราบสัดส่วนว่าอุปกรณ์ใดกินไฟมากที่สุด | **FR-4:** Result Declaration & Breakdown | Cost Aggregator & Visual Breakdown Renderer *(Ch 4-5)* | Cost Breakdown & Consumption Dashboard *(Ch 6)* | Real-time Data Sync & Sorting Accuracy Tests *(Ch 7)* |
 | **Data Loss Between Sessions**<br>ข้อมูลประวัติการคำนวณหายเมื่อปิดแอป ไม่สามารถเปรียบเทียบแนวโน้มกับใบแจ้งหนี้จริงได้ | **FR-5:** Usage History & Data Persistence | Local/Session Storage & History Database Handler *(Ch 4-5)* | Calculation Log & History Management *(Ch 6)* | App Restart & Force-close Data Integrity Tests *(Ch 7)* |
-```[cite: 7, 8, 9, 10, 11, 12, 13]
 
 
 ## Team
