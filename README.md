@@ -60,7 +60,7 @@ See `/docs` for the full SRS, ERD, use case diagram, and traceability matrix.
 
 | Name | Student ID | Role |
 | :--- | :--- | :--- |
-| Gankawi Hankham | 6931503023 | UX/UI Developer & User Researcher (FR-1 Profile & Presets) |
+| Gankawi Hankham | 6931503023 | Co UX/UI Developer & User Researcher (FR-1 Profile & Presets) |
 | Jirapat Intharat | 6931503027 | Developer & Systems Engineer (FR-2 Computing System) |
 | Sukrit Suteekul | 6931503078 | Interviewer Assistant & Co-developer (FR-5 Usage History & Data Persistence) |
 | Akhane Wongchai | 6931503081 | Project manager & Scrum Master |
