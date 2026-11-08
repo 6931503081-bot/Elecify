@@ -68,8 +68,6 @@ See `/docs` for the full SRS, ERD, use case diagram, and traceability matrix.
 
 ## AI Usage Log
 
-## 8. AI Usage Log
-
 | Prompt / Purpose | Output | Modifications / Decisions Added | Human Verification |
 | :--- | :--- | :--- | :--- |
 | **Gemini:** Draft the SRS document structure following the M2 standard format and map M1 Charter requirements (Elec-Specify system) into the system architecture. | Draft SRS document structure with mapped M1 Charter goals. | Refined Functional Requirements (FR) descriptions to align with the team's M1 Charter and explicitly defined system scope (In-Scope / Out-of-Scope). | Verified document structure accuracy, reviewed alignment with M1 Charter specifications, and adjusted details to fit the specific domain context. |
