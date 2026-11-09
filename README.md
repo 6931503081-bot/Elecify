@@ -20,7 +20,7 @@ Dormitory renters often run high-wattage electrical appliances simultaneously wi
 | FR-2 | Computing System / Cost Calculation Engine (Accurate daily and monthly kWh and cost calculation) |
 | FR-3 | User Guide & Help Documentation (Step-by-step guidance and field tooltips) |
 | FR-4 | Result Declaration & Cost Breakdown (Prominent total cost display with device usage breakdown) |
-| FR-5 | languages and theme (ALLOWS USERS TO TOGGLE BETWEEN THAI/ENGLISH AND SWITCH UI THEMES FOR OPTIMAL USABILITY) |
+| FR-5 | Usage History & Session Persistence (Saved calculation logs across sessions for monthly comparison) | |
 
 ## Tech stack
 
