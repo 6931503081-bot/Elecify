@@ -1,4 +1,4 @@
-# Elec-Specify
+# Eleccify
 
 Elec-Specify Dormitory Electricity Cost Management System. Built for Intro to Software Engineering (15031001), Academic Year 2026.
 
